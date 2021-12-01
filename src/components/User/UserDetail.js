@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link, Switch ,useNavigate } from 'react-router-dom';
+import { Link ,useNavigate } from 'react-router-dom';
 const UserDetail = () => {
     const navigate = useNavigate();
     return (

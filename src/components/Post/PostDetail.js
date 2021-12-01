@@ -1,5 +1,5 @@
 import React from 'react'
-import { Link, Switch, useNavigate } from 'react-router-dom';
+import {  useNavigate } from 'react-router-dom';
 const PostDetail = () => {
     const navigate = useNavigate();
     return (
